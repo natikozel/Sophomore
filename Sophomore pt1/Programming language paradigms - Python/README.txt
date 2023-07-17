@@ -1,0 +1,1 @@
+The course is tought in Python and is teaching about all of the existing paradigms.
