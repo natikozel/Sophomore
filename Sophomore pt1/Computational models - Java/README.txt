@@ -1,0 +1,2 @@
+The java programs present a program that creates a NDFSM / DFSM and examines whether a string matches the machine or not.
+The program also translates Deterministic machines to Regular Expressions and vice versa.
